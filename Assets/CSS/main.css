@@ -1,0 +1,34 @@
+/* ==========================================================================
+    Section comment block
+   ========================================================================== */
+html,
+body {
+   height: 100%;
+   font-family: 'Open Sans', sans-serif;
+   background-image: linear-gradient(65deg, rgb(73, 28, 182), rgba(2, 38, 83, 0.74));
+   background-size: cover;
+   background-position: center;
+}
+
+h1,
+h3 {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#email {
+  color: #4f93dc;
+  text-align: center;
+}
+
+
+/* Sub-section comment block
+   ========================================================================== */
